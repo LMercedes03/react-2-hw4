@@ -1,0 +1,11 @@
+.Nav {
+    padding-bottom: 1em;
+    font-weight: 700;
+    color: #aa8d8d;
+  }
+  :any-link{
+    color: azure;
+  }
+  :any-link:visited {
+    color: rgb(48, 165, 74);
+  }
